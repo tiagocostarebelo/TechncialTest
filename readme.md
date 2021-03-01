@@ -1,4 +1,4 @@
-##CleverTouch Technical Test
+## CleverTouch Technical Test
 
 Firstly, thank you for attending your first interview with us. I hope you found it an enjoyable exeprience, and are looking forward to showing us what you can do in this technical challenge. 
 
@@ -16,4 +16,8 @@ Your tasks to complete are:
 5. In the new arrivals products section, change the layout to show the shoes in rows of three.
 6. Using javascript, submit the form via javascript, redirecting the page back to itself. Scroll the page to the form, remove the form, and show a thank you message where the form once was. 
 
+Please complete these changes using a pull request so that we can see exactly what changes you have made to the code. 
 
+Thanks,
+
+CleverTouch
