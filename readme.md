@@ -1,14 +1,14 @@
 ## CleverTouch Technical Test
 
-Firstly, thank you for attending your first interview with us. I hope you found it an enjoyable exeprience, and are looking forward to showing us what you can do in this technical challenge. 
+Firstly, thank you for attending your first interview with us. I hope you found it an enjoyable experience, and are looking forward to showing us what you can do in this technical challenge. 
 
-This is for us to check  how well you can tackle multiple problems using your troubleshooting ability, HTML, CSS and Javascript.
+This is for us to check how well you can tackle multiple problems using your troubleshooting ability, HTML, CSS and Javascript skills.
 
-I would expect these tasks to take you between 45 minutes and 1 hour and 30 minutes. 
+I would expect these tasks to take you between 45 minutes and 1 hour and 30 minutes to complete. 
 
 Your tasks to complete are: 
 
-1. Look for issues on the page layout and fix them. - There are at least 5
+1. Look for issues on the page layout and fix them - There are at least 5
 2. Remove the area in the carousel that says "Mens Shoes" but make sure that the positioning of the other elements does not change. 
 3. In the new collection area, make the black "New" button align with the top left of the shoe container
 4. Add another carousel item
