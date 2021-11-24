@@ -859,3 +859,7 @@ a:hover {
     height: auto;
     background: #0c0116;
 }
+
+#form-message {
+    display: none;
+}

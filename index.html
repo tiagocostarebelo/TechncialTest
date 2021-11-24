@@ -398,10 +398,13 @@
     	<div class="container-fluid ram">
     		<div class="row">
     			<div class="col-md-6">
+					
     				<div class="email_box">
                     <div class="input_main">
                        <div class="container">
-                          <form action="/action_page.php">
+						<p id="form-message">Thank you for your contact.<br>
+						Your message was sent.</p>
+                          <form action="" method="POST">
                             <div class="form-group">
                               <input type="text" class="email-bt" placeholder="Name" name="Name">
                             </div>
@@ -418,7 +421,7 @@
                           </form>   
                        </div> 
                        <div class="send_btn">
-                        <button class="main_bt">Send</button>
+                        <button type="submit" class="main_bt">Send</button>
                        </div>                   
                     </div>
     		</div>
@@ -516,6 +519,7 @@
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/jquery-3.0.0.min.js"></script>
       <script src="js/plugin.js"></script>
+      <script src="js/form.js"></script>
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
