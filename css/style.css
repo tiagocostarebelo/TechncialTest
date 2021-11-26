@@ -386,9 +386,9 @@ body {
 }
 
 .carousel-indicators li {
-    display:block; 
-    margin-bottom:5px; 
-    border:1px solid #00a199; 
+    display: block; 
+    margin-bottom: 5px; 
+    border: 1px solid #00a199; 
     margin-bottom: 5px; 
 }
 
@@ -655,10 +655,12 @@ body {
 }
 
 .email_box {
-    width: 85%;
-    float: right;
-    background-color: #14120e;
-    height: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #14120e;    
     padding: 20px 20px;
     opacity: 0.80;
 }
@@ -668,7 +670,7 @@ body {
 }
 
 .email-bt {
-
+    width: 100%;
 }
 
 .massage-bt {
