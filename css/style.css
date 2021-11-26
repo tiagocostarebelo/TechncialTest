@@ -869,3 +869,8 @@ a:hover {
     display: none;
     color: white;
 }
+
+.navbar {
+    position: absolute;
+    z-index: 1000;
+}
