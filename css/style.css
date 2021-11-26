@@ -231,6 +231,8 @@ button {
     float: left; 
     color: #908d92; 
     font-size: 14pt; 
+
+    display: none;
 }
 
 .mens_taital_2 {
@@ -239,6 +241,8 @@ button {
     color: #908d92;
     font-size: 14pt;
     margin-top: 150px;
+
+    display: none;
 }
 
 .page_no {
@@ -250,9 +254,11 @@ button {
     border-radius: 30px;
     margin-top: 150px;
     padding-bottom: 10px;
-    display: inline-block;
+    /* display: inline-block; */
     padding-top: 12px;
     margin-left: 30px;
+
+    display: none;
 }
 
 .bg-light {
@@ -261,7 +267,7 @@ button {
 
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
-    font-size: 16pt;
+    font-size: 16px;
 }
 
 .navbar-light .navbar-nav .nav-link:focus, 
@@ -444,7 +450,7 @@ body {
 	text-align: center;
 	color: #ffffff;
 	height: 50px;
-	margin-left: -60px;
+	/* margin-left: -60px; */
 }
 
 .shoes-img {
@@ -857,4 +863,9 @@ a:hover {
     width: 100%;
     height: auto;
     background: #0c0116;
+}
+
+#form-message {
+    display: none;
+    color: white;
 }
